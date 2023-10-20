@@ -6,6 +6,6 @@ Welcome to the MySQL and Pterodactyl Integration Documentation. This document is
 - Game server administrators looking to optimize their server management using MySQL and Pterodactyl.
 - Developers interested in integrating MySQL with Pterodactyl for enhanced data management and performance.
 - Users who wish to understand the technology behind the integration for better utilization and customization.
-
-
 # Detail Explain can be seed in our docs website.
+
+- https://infinityinteractive.gitbook.io
